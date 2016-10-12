@@ -1,6 +1,5 @@
-#!/usr/bin/env python3
-import time
 from flask import Flask
+import time
 
 app = Flask(__name__)
 
